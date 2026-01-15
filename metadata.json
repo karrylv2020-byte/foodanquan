@@ -1,0 +1,7 @@
+{
+  "name": "FoodGuard (食安卫士)",
+  "description": "您的智能食品安全助手。扫描配料表，AI分析添加剂风险，提供个性化健康评分与预警。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
